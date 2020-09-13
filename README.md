@@ -1,6 +1,6 @@
-### Greetings, I am Ramie Mosely - [website] 👋
+### Greetings, I am Ramie Mosely 
 
-[![Website](https://img.shields.io/website?label=RamieMosey.com&style=for-the-badge&url=https%3A%2F%2Framiemosely.com)](https://ramiemosely.com)
+[![Website](https://img.shields.io/website?label=RamieMosely.com&style=for-the-badge&url=https%3A%2F%2Framiemosely.com)](https://ramiemosely.com)
 
 ## Gee Wilkers! I'm a Software Engineer!
 
