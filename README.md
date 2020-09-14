@@ -1,13 +1,13 @@
-### Greetings, I am Ramie Mosely 
+### Greetings, I am Ramie Mosely.
 
 [![website](https://img.shields.io/website?label=RamieMosely.com&style=for-the-badge&url=http%3A%2F%2Framiemosely.com)](http://ramiemosely.com/)
 
-## I am a Software Engineer!
+### I am a Software Engineer!
 
 - 🔭 I’m currently working on [Ramies Arcade][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Become better at PHP and C#
-- ⚡ Fun fact: I love to draw and enjoy making video games in my free time.
+- ⚡ Fun fact: I enjoy making video games in my free time.
 
 ### Connect With Me:
 
