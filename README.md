@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Ramies Arcade][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become better at PHP and C#
+- 🥅 2021 Goals: Become better at C#
 - ⚡ Fun fact: I enjoy making video games in my free time.
 
 ### Connect With Me:
