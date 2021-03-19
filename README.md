@@ -2,7 +2,6 @@
 
 [![website](https://img.shields.io/website?label=RamieMosely.com&style=for-the-badge&url=http%3A%2F%2Framiemosely.com)](http://www.ramiemosely.com/)
 
-https://img.shields.io/website?up_color=green&url=http%3A%2F%2Fwww.ramiemosely.com%2F
 
 ### I am a Software Engineer!
 
