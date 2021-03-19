@@ -1,6 +1,6 @@
 ### Greetings, I am Ramie Mosely.
 
-[![website](https://img.shields.io/website?label=RamieMosely.com&style=for-the-badge&url=http%3A%2F%2Framiemosely.com)](http://ramiemosely.com/)
+[![website](https://img.shields.io/website?label=RamieMosely.com&style=for-the-badge&url=http%3A%2F%2Framiemosely.com)](http://www.ramiemosely.com/)
 
 ### I am a Software Engineer!
 
