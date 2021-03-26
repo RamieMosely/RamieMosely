@@ -1,6 +1,5 @@
 ### Greetings, I am Ramie Mosely.
 
-[![Website](https://img.shields.io/website?label=www.ramiemosely.com)](http://www.ramiemosely.com/)
 
 - 🔭 I’m currently working on [Ramies Arcade][website]!
 - 🌱 I’m currently learning everything 🤣
