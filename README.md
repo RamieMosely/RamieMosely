@@ -1,6 +1,6 @@
 ### Greetings, I am Ramie Mosely.
 
-### I am a Software Engineer!
+[![Website](https://img.shields.io/website?label=www.ramiemosely.com&style=for-the-badge&url=https%3A%2F%2Framiemosely.com)](http://www.ramiemosely.com/)
 
 - 🔭 I’m currently working on [Ramies Arcade][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -18,6 +18,6 @@
 
 ---
 
-[website]: http://ramiemosely.com
+[website]: http://www.ramiemosely.com/index.html
 [linkedin]: https://www.linkedin.com/in/ramie-mosely-9740521a7/
 
