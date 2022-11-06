@@ -1,9 +1,5 @@
 ### Greetings, I am Ramie Mosely.
 
-
-- 🔭 I’m currently working on [Ramies Arcade][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Become better at C#
 - ⚡ Fun fact: I enjoy making video games in my free time.
 
 ### Connect With Me:
